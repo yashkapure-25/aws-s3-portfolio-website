@@ -71,8 +71,6 @@ aws-s3-portfolio-website/
 └── screenshots/
     ├── s3-bucket.png
     ├── s3-objects.png
-    ├── bucket-policy.png
-    ├── static-hosting.png
     └── live-website.png
 ```
 
