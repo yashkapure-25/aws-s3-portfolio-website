@@ -1,4 +1,4 @@
-** ☁️ Amazon S3 & Cloud Storage — Portfolio Website**
+**☁️ Amazon S3 & Cloud Storage — Portfolio Website**
 
 ## 📌 Project Overview
 
